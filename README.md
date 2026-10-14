@@ -62,9 +62,6 @@ In future activities I would like to further my knowledge on Vulnerability asses
 - Mozilla Firefox
 - Fake Bank replica bank app
 
-Evidence
-
-Screenshots of the DIRB scan, Fake Bank app and successful room completion are available in this repository.
 ## Evidence of Practical Work
 
 ### Screenshot 1: DIRB Directory Scan
