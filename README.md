@@ -32,7 +32,7 @@ This was a beginner-level ethical hacking exercise completed using the Fake Bank
 
 1. Signed up for TryHackMe and selected the Offensive Security Intro exercise.
 2. Launched the Fake Bank app within the simulated virtual desktop.
-3. Were able to locate the account number on the website.
+3. I was able to locate the account number on the bank website.
 4. Terminal was opened and ran dirb http://fakebank.thm.
 5. Reviewed the scan results and found the page that was /bank-transfer.
 6. Entered the admin transfer page and tried a fake deposit.
@@ -66,9 +66,12 @@ In future activities I would like to further my knowledge on Vulnerability asses
 
 ### Screenshot 1: DIRB Directory Scan
 ![DIRB Terminal](DIRB%20terminal.png)
+This screenshot is part of DIRB scan results when you have two directories /images and /bank-transfer identified by it. This is how you can use directory scanning to discover hidden pages of a website.
 
 ### Screenshot 2: FakeBank Deposit
 ![FakeBank Deposit](FakeBank%20Deposit.png)
+This screenshot demonstrates a failed deposit through the administrator page of the test bank. Shows how weak access controls lead to security issues.
 
 ### Screenshot 3: TryHackMe Completion
 ![TryHackMe Completion](TryHackMe.png)
+From this screenshot we can see I've finished the TryHackMe Offensive Security Intro exercise and received a total of 32 points after completing all four challenges.
