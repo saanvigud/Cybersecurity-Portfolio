@@ -65,3 +65,13 @@ In future activities I would like to further my knowledge on Vulnerability asses
 Evidence
 
 Screenshots of the DIRB scan, Fake Bank app and successful room completion are available in this repository.
+## Evidence of Practical Work
+
+### Screenshot 1: DIRB Directory Scan
+![DIRB Terminal](DIRB%20terminal.png)
+
+### Screenshot 2: FakeBank Deposit
+![FakeBank Deposit](FakeBank%20Deposit.png)
+
+### Screenshot 3: TryHackMe Completion
+![TryHackMe Completion](TryHackMe.png)
